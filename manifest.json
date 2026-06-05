@@ -1,0 +1,18 @@
+{
+  "name": "AudioBook Library",
+  "short_name": "AudioBook",
+  "description": "Your personal audiobook library",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#f5a623",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
